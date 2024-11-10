@@ -128,6 +128,8 @@ Thresholds:
 - Recall: ≥ 0.8 (good), ≥ 0.9 (excellent)
 - Accuracy: ≥ 0.9 (good), ≥ 0.95 (excellent)
 
+  [code](https://github.com/Aakash1379/used_car_price_prediction/blob/main/used%20car%20price%20prediction.ipynb)
+
 
 **Usage**
 
