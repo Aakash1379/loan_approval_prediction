@@ -105,7 +105,7 @@ To optimize performance, consider tuning the following hyperparameters:
     - Regularization parameters (alpha, lambda)
 
 
-
+[code](https://github.com/Aakash1379/loan_approval_prediction/blob/main/loan_approval_prediction.ipynb)
 
 **Evaluation Matrics**
 
