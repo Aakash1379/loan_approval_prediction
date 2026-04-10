@@ -1,6 +1,6 @@
 **Loan Status Approval Prediction**
 
-This repository presents a machine learning-based Loan Status Approval Prediction Model, designed to predict the likelihood of loan approval for applicants. Leveraging a comprehensive dataset of borrower information and loan characteristics, our model identifies patterns and relationships to provide accurate predictions
+This repository presents a machine learning-based Loan Status Approval Prediction Model, designed to predict the likelihood of loan approval for applicants. Leveraging a comprehensive dataset of borrower information and loan characteristics, our model identifies patterns and relationships to provide accurate prediction
 
 ![Alt text](https://user-images.githubusercontent.com/106006755/216782833-2ee42fc2-c7c0-4032-a747-cf64671ae336.gif)
 
