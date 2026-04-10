@@ -72,7 +72,7 @@ Creditworthiness Features:
 2. Credit Score (customer's credit score, assumed)
 
 
-Model Selection:
+**Model Evaluation:**
 
 You're using a diverse set of machine learning algorithms for your Loan Status Approval Prediction model. Here's a brief summary:
 
@@ -103,6 +103,9 @@ To optimize performance, consider tuning the following hyperparameters:
     - Maximum depth (max_depth)
     - Number of trees (n_estimators)
     - Regularization parameters (alpha, lambda)
+
+**Best Model**
+from the  models comparision in loan_approval_prediction code file **Random Forest** achieved the highest score making it the best performing model.
 
 
 [code](https://github.com/Aakash1379/loan_approval_prediction/blob/main/loan_approval_prediction.ipynb)
